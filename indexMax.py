@@ -1,4 +1,5 @@
 ﻿# Créé par Maxime, le 02/05/2016 en Python 3.2
+
 from lycee import *
 def indexmax(liste):
         index=0
