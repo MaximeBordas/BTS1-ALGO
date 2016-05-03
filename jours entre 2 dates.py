@@ -1,5 +1,5 @@
-﻿# Créé par Alexis, le 15/12/2015 en Python 3.2
-# Créé par Alexis, le 15/12/2015 en Python 3.2
+﻿
+# Créé par Maxime, le 15/12/2015 en Python 3.2
 from lycee import *
 jours =[" Lundi","Mardi"," Mercredi","Jeudi" ," Vendredi"," Samedi" ," Dimanche"]
 mois=["Janvier" ,"Février","Mars","Avril","Mai","Juin","Juillet","Août"]

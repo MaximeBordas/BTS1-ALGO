@@ -1,4 +1,4 @@
-﻿# Créé par Alexis, le 04/02/2016 en Python 3.2
+﻿# Créé par Maxime, le 04/02/2016 en Python 3.2
 from tkinter import *
 for i in range (0,100,1):
     fenetre = Tk()
