@@ -1,4 +1,4 @@
-﻿# Créé par Alexis, le 12/01/2016 avec EduPython
+﻿# Créé par Maxime, le 12/01/2016 avec EduPython
 from lycee import *
 
 
